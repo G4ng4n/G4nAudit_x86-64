@@ -1,7 +1,22 @@
-# import idc
+import idc
 import json
-from audit_config import *
 
+BANNER = '''
+
+      __ __                    __ __
+     /\\ \\\\ \\                  /\\ \\\\ \\
+   __\\ \\ \\\\ \\      ___      __\\ \\ \\\\ \\      ___
+ /'_ `\\ \\ \\\\ \\_  /' _ `\\  /'_ `\\ \\ \\\\ \\_  /' _ `\\
+/\\ \\L\\ \\ \\__ ,__\\/\\ \\/\\ \\/\\ \\L\\ \\ \\__ ,__\\/\\ \\/\\ \\
+\\ \\____ \\/_/\\_\\_/\\ \\_\\ \\_\\ \\____ \\/_/\\_\\_/\\ \\_\\ \\_\\
+ \\/___L\\ \\ \\/_/   \\/_/\\/_/\\/___L\\ \\ \\/_/   \\/_/\\/_/
+   /\\____/                  /\\____/
+   \\_/__/                   \\_/__/
+                                G4ng4n's first plugin
+'''
+
+DEBUG = True
+AUDIT_FUNC_JSON = "D:/code/TianWen/idapython/audit_func.json"
 __func = None
 
 # IN    None
@@ -43,7 +58,7 @@ def get_func_addr(func_name):
     addr = idc.get_name_ea_simple(func_name)
     if DEBUG:
         print("addr of " + func_name + ": ", addr)
-    if addr != BADADDR:
+    if addr != idc.BADADDR:
         print('\n'.ljust(41, '*') + func_name.ljust(40, '*') + '\n')
         return addr
     return False
