@@ -1,0 +1,20 @@
+{
+    "TAG" : ["fmt_str", "mem"],
+    "FUNC" : {
+        "func_0" : {
+            "name" : "func_0",
+            "tag" : ["fmt_str"],
+            "argc" : 3,
+            "argv" : ["arg0", "arg1", "arg2"],
+            "comment" : "This is func_0!"
+        },
+
+        "func_1" : {
+            "name" : "func_1",
+            "tag" : ["fmt_str","mem"],
+            "argc" : 0,
+            "argv" : null,
+            "comment" : "This is func_1(void)!"
+        }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "DEBUG_MODE" : true,
+    "BANNER" : {
+        "font" : "larry3d",
+        "content" : "IDAGay"
+    },
+    "GUI_MODE" : false
+}

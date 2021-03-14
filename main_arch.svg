@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 总体架构.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st11">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+			<v:ud v:nameU="msvWarnOnPersonalInfo" v:val="VT0(1):5"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:#5b9bd5;fill-opacity:0.22;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st3 {fill:#5b9bd5;stroke:#c7c8c8;stroke-width:0.25}
+		.st4 {fill:#feffff;font-family:Calibri;font-size:3em}
+		.st5 {font-family:黑体;font-size:1em}
+		.st6 {fill:#5b9bd5;fill-opacity:0.25;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.25}
+		.st7 {fill:#4f87bb;stroke:#40709c;stroke-width:0.75}
+		.st8 {fill:url(#grad0-60);stroke:#4f87bb;stroke-width:0.75}
+		.st9 {fill:#4f87bb;font-family:Calibri;font-size:1.33333em}
+		.st10 {font-size:1em}
+		.st11 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-60" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+			<stop offset="0" stop-color="#e9eff7" stop-opacity="1"/>
+			<stop offset="0.24" stop-color="#f4f7fb" stop-opacity="1"/>
+			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_2">
+			<feGaussianBlur stdDeviation="2"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(18,-453.543)">
+			<title>矩形</title>
+			<desc>TritonMgr</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="87.874" cy="542.835" width="175.75" height="104.882"/>
+			<g id="shadow1-2" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="490.394" width="175.748" height="104.882" class="st2"/>
+			</g>
+			<rect x="0" y="490.394" width="175.748" height="104.882" class="st3"/>
+			<text x="13.58" y="553.63" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>TritonMgr</text>		</g>
+		<g id="shape2-7" v:mID="2" v:groupContext="shape" transform="translate(18,-277.795)">
+			<title>矩形.2</title>
+			<desc>API封装</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="87.874" cy="542.835" width="175.75" height="104.882"/>
+			<g id="shadow2-8" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="490.394" width="175.748" height="104.882" class="st2"/>
+			</g>
+			<rect x="0" y="490.394" width="175.748" height="104.882" class="st3"/>
+			<text x="27.63" y="554.82" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>API<tspan class="st5">封装</tspan></text>		</g>
+		<g id="shape3-14" v:mID="3" v:groupContext="shape" transform="translate(521.575,-277.795)">
+			<title>矩形.3</title>
+			<desc>View</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="87.874" cy="542.835" width="175.75" height="104.882"/>
+			<g id="shadow3-15" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="490.394" width="175.748" height="104.882" class="st2"/>
+			</g>
+			<rect x="0" y="490.394" width="175.748" height="104.882" class="st3"/>
+			<text x="51.71" y="553.63" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>View</text>		</g>
+		<g id="shape4-20" v:mID="4" v:groupContext="shape" transform="translate(521.575,-453.543)">
+			<title>矩形.4</title>
+			<desc>Config</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="87.874" cy="542.835" width="175.75" height="104.882"/>
+			<g id="shadow4-21" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="490.394" width="175.748" height="104.882" class="st2"/>
+			</g>
+			<rect x="0" y="490.394" width="175.748" height="104.882" class="st3"/>
+			<text x="41.23" y="553.63" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Config</text>		</g>
+		<g id="shape9-26" v:mID="9" v:groupContext="shape" transform="translate(255.118,-453.543)">
+			<title>矩形.9</title>
+			<desc>Connector</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="87.874" cy="542.835" width="175.75" height="104.882"/>
+			<g id="shadow9-27" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="490.394" width="175.748" height="104.882" class="st2"/>
+			</g>
+			<rect x="0" y="490.394" width="175.748" height="104.882" class="st3"/>
+			<text x="11.51" y="553.63" class="st4" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Connector</text>		</g>
+		<g id="shape10-32" v:mID="10" v:groupContext="shape" transform="translate(513.449,712.081) rotate(163.36)">
+			<title>普通双箭头</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<g id="shadow10-33" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,5.55112E-17,-5.55112E-17,1,0.233781,-1.98914)" class="st1">
+				<path d="M0 595.28 L11.34 583.94 L11.34 589.61 L236.14 589.61 L236.14 583.94 L247.48 595.28 L236.14 606.61 L236.14
+							 600.94 L11.34 600.94 L11.34 606.61 L0 595.28 Z" class="st6"/>
+			</g>
+			<path d="M0 595.28 L11.34 583.94 L11.34 589.61 L236.14 589.61 L236.14 583.94 L247.48 595.28 L236.14 606.61 L236.14 600.94
+						 L11.34 600.94 L11.34 606.61 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape17-37" v:mID="17" v:groupContext="shape" transform="translate(193.748,-505.984)">
+			<title>普通双箭头.17</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(3):26"/>
+			</v:userDefs>
+			<g id="shadow17-38" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<path d="M0 595.28 L11.34 583.94 L11.34 589.61 L50.03 589.61 L50.03 583.94 L61.37 595.28 L50.03 606.61 L50.03 600.94
+							 L11.34 600.94 L11.34 606.61 L0 595.28 Z" class="st6"/>
+			</g>
+			<path d="M0 595.28 L11.34 583.94 L11.34 589.61 L50.03 589.61 L50.03 583.94 L61.37 595.28 L50.03 606.61 L50.03 600.94
+						 L11.34 600.94 L11.34 606.61 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape21-42" v:mID="21" v:groupContext="shape" transform="translate(521.575,684.567) rotate(180)">
+			<title>普通箭头</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<g id="shadow21-43" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,-0.345598,-1.97279)" class="st1">
+				<path d="M0 595.28 L11.34 583.94 L11.34 589.61 L90.71 589.61 L90.71 595.28 L90.71 600.94 L11.34 600.94 L11.34 606.61
+							 L0 595.28 Z" class="st6"/>
+			</g>
+			<path d="M0 595.28 L11.34 583.94 L11.34 589.61 L90.71 589.61 L90.71 595.28 L90.71 600.94 L11.34 600.94 L11.34 606.61
+						 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape22-47" v:mID="22" v:groupContext="shape" transform="translate(681.222,-348.118) rotate(34.6242)">
+			<title>普通箭头.22</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<g id="shadow22-48" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.40531,1.42704)" class="st1">
+				<path d="M0 595.28 L11.34 583.94 L11.34 589.61 L217.02 589.61 L217.02 595.28 L217.02 600.94 L11.34 600.94 L11.34
+							 606.61 L0 595.28 Z" class="st6"/>
+			</g>
+			<path d="M0 595.28 L11.34 583.94 L11.34 589.61 L217.02 589.61 L217.02 595.28 L217.02 600.94 L11.34 600.94 L11.34 606.61
+						 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape23-52" v:mID="23" v:groupContext="shape" transform="translate(1204.72,141.732) rotate(90)">
+			<title>普通箭头.23</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<g id="shadow23-53" v:groupContext="shadow" v:shadowOffsetX="0.345598" v:shadowOffsetY="-1.97279" v:shadowType="1"
+					transform="matrix(1,0,0,1,1.97279,-0.345598)" class="st1">
+				<path d="M0 595.28 L11.34 583.94 L11.34 589.61 L70.87 589.61 L70.87 595.28 L70.87 600.94 L11.34 600.94 L11.34 606.61
+							 L0 595.28 Z" class="st6"/>
+			</g>
+			<path d="M0 595.28 L11.34 583.94 L11.34 589.61 L70.87 589.61 L70.87 595.28 L70.87 600.94 L11.34 600.94 L11.34 606.61
+						 L0 595.28 Z" class="st7"/>
+		</g>
+		<g id="shape24-57" v:mID="24" v:groupContext="shape" transform="translate(136.063,-37.1339)">
+			<title>矩形.24</title>
+			<desc>TritonMgr为核心逻辑模块进行基本的回溯分析等运算 Connector为模块间通信实现进行不同模块间的数据格式包装与...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="269.291" cy="493.37" width="538.59" height="203.811"/>
+			<rect x="0" y="391.465" width="538.583" height="203.811" class="st8"/>
+			<text x="68.27" y="445.44" class="st9" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>TritonMgr<tspan
+						class="st5">为核心逻辑模块</tspan><tspan class="st5">，</tspan><tspan class="st5">进行基本的回溯分析等运算</tspan><tspan
+						class="st5">；<v:newlineChar/></tspan><tspan x="19.35" dy="1.331em" class="st10">Connector</tspan><tspan
+						class="st5">为模块间通信实现</tspan><tspan class="st5">，</tspan><tspan class="st5">进行不同模块间的数据格式包装与转换</tspan><tspan
+						class="st5">；<v:newlineChar/></tspan><tspan x="19.17" dy="1.331em" class="st10">API</tspan><tspan
+						class="st5">封装模块将</tspan>IDAPython<tspan class="st5">的基本</tspan>API<tspan class="st5">封装以简化操作</tspan><tspan
+						class="st5">，</tspan><tspan class="st5">供</tspan>Connector<tspan class="st5">使用</tspan><tspan class="st5">；<v:newlineChar/></tspan><tspan
+						x="9.26" dy="1.331em" class="st10">Config</tspan><tspan class="st5">模块包括了</tspan>View<tspan class="st5">的定义与审计函数信息</tspan><tspan
+						class="st5">，</tspan>View<tspan class="st5">定义部分由</tspan>view<tspan class="st5">模块直</tspan><tspan x="18.33"
+						dy="1.331em" class="st5">接引用</tspan><tspan class="st5">，</tspan><tspan class="st5">审计函数信息由</tspan>Connector<tspan
+						class="st5">模块处理后转交</tspan>TritonMgr<tspan class="st5">部分使用</tspan><tspan class="st5">；<v:newlineChar/></tspan><tspan
+						x="149.22" dy="1.331em" class="st10">View</tspan><tspan class="st5">模块负责进行信息的输出显示</tspan></text>		</g>
+	</g>
+</svg>

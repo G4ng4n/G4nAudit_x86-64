@@ -1,0 +1,15 @@
+{
+    "x86" : {
+        "arg_area" : ["mem"],
+        "args" : [
+            "ebp+8", "ebp+12","ebp+16","ebp+20","ebp+24","ebp+28"
+        ]
+    },
+
+    "x86_64" : {
+        "arg_area" : ["reg"],
+        "args" : [
+            "rdi", "rsi", "rdx", "rcx", "r8", "r9"
+        ]
+    }
+}
